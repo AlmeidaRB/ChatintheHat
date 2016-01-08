@@ -44,7 +44,7 @@ var chat = {
   },
 
   config: {
-    url: 'http://tiy-fee-rest.herokuapp.com/collections/seusschatroom',
+    url: 'https://tiny-tiny.herokuapp.com/collections/chatinthehatR',
   },
 
   render: function (data, tmpl, $el) {
